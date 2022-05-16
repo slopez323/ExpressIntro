@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/slopez323/ExpressIntro/issues"
   },
-  "homepage": "https://github.com/slopez323/ExpressIntro#readme"
+  "homepage": "https://github.com/slopez323/ExpressIntro#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
